@@ -1,0 +1,11 @@
+{
+  "name": "intent-driven-liquidity-aggregator",
+  "version": "1.0.0",
+  "description": "Intent-driven DEX aggregator and solver matching engine",
+  "main": "batchMatcher.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
